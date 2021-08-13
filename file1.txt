@@ -1,2 +1,7 @@
 hello
 thrisha
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ae5096650fbc5e64af1827b4fbb2beb6661e880d
